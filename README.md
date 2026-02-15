@@ -11,6 +11,7 @@ A Flask-based web application allows users to enter flower measurements through 
 Manual classification of Iris flower species based on physical measurements can be time-consuming and prone to errors. This project aims to automate the classification process using machine learning techniques to improve accuracy and efficiency.
 
 🤖 Machine Learning Models Used
+
 ✅ K-Nearest Neighbors (KNN)
 
 K-Nearest Neighbors (KNN) is a supervised machine learning algorithm used for classification and regression tasks. It classifies a new data point based on the majority class among its nearest neighbors in the training dataset.
